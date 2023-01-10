@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6qIm9pxhzMh":
+      case "67PyAetRoiq":
         Script1();
         break;
-      case "6ofwN3kCsae":
+      case "5YOknljfDOG":
         Script2();
         break;
   }
@@ -18,10 +18,22 @@ function Script1()
 var x = player.GetVar("SizeOfRoom");
 var y = player.GetVar("CountOfRooms");
 
-var func2 = Math.ceil((50*x+500)/1000)*1000;
+var func2 = 50*x+500;
+if (func2 <1000) 
+{
+ func2 = 1000;
+}
 func2= player.GetVar("check2")*func2;
 
-var func3=Math.ceil(500*y/1000)*1000;
+if (y==1)
+{ 
+var func3=1000;
+}
+else
+{
+var func3=500*y;
+}
+
 var func4=20*x;
 
 var func5=player.GetVar("check5")*func4;
@@ -37,7 +49,12 @@ var func14=player.GetVar("check14")*func4;
 var func15=player.GetVar("check15")*func4;
 var func16=player.GetVar("check16")*func4;
 
-var func17=player.GetVar("check17")*60*y;
+var func17=player.GetVar("check17")*60*x;
+if (func17 < 1000)
+{
+func17=1000;
+}
+
 var func18=player.GetVar("check18")*500*y;
 var func19=player.GetVar("check19")*100*x;
 var func20=player.GetVar("check20")*200*x;
@@ -63,10 +80,22 @@ function Script2()
 var x = player.GetVar("SizeOfRoom");
 var y = player.GetVar("CountOfRooms");
 
-var func2 = Math.ceil((50*x+500)/1000)*1000;
+var func2 = 50*x+500;
+if (func2 <1000) 
+{
+ func2 = 1000;
+}
 func2= player.GetVar("check2")*func2;
 
-var func3=Math.ceil(500*y/1000)*1000;
+if (y==1)
+{ 
+var func3=1000;
+}
+else
+{
+var func3=500*y;
+}
+
 var func4=20*x;
 
 var func5=player.GetVar("check5")*func4;
@@ -82,7 +111,12 @@ var func14=player.GetVar("check14")*func4;
 var func15=player.GetVar("check15")*func4;
 var func16=player.GetVar("check16")*func4;
 
-var func17=player.GetVar("check17")*60*y;
+var func17=player.GetVar("check17")*60*x;
+if (func17 < 1000)
+{
+func17=1000;
+}
+
 var func18=player.GetVar("check18")*500*y;
 var func19=player.GetVar("check19")*100*x;
 var func20=player.GetVar("check20")*200*x;

@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="calc" />
+              <option name="title_text" value="calculation" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
