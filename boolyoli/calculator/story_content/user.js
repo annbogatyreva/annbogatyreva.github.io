@@ -2,8 +2,74 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5cwDdJ20ARt":
+      case "6VztUXybowl":
         Script1();
+        break;
+      case "5r8shp7EltL":
+        Script2();
+        break;
+      case "6U5QGprPbKw":
+        Script3();
+        break;
+      case "5rbdGj7Hvr0":
+        Script4();
+        break;
+      case "5rRr0ZBVVZW":
+        Script5();
+        break;
+      case "6QS1Ek897mq":
+        Script6();
+        break;
+      case "5bQMroedRyp":
+        Script7();
+        break;
+      case "6WHlavoXtZ6":
+        Script8();
+        break;
+      case "5vvfU0pzDxE":
+        Script9();
+        break;
+      case "66TQmh8b5Gx":
+        Script10();
+        break;
+      case "6InQEXft3Ub":
+        Script11();
+        break;
+      case "6PrOvEb3KQJ":
+        Script12();
+        break;
+      case "5ySsvysnNEP":
+        Script13();
+        break;
+      case "5vbAFWSQKbB":
+        Script14();
+        break;
+      case "5o16ugLHTuq":
+        Script15();
+        break;
+      case "6UKTYNpiOOf":
+        Script16();
+        break;
+      case "6SCdVwJlCPE":
+        Script17();
+        break;
+      case "6pQAzNP0at2":
+        Script18();
+        break;
+      case "5lFBKCrlpgm":
+        Script19();
+        break;
+      case "6AZGrSjpNoF":
+        Script20();
+        break;
+      case "61gv7W7V2tn":
+        Script21();
+        break;
+      case "6GGWicYDAjY":
+        Script22();
+        break;
+      case "6ZBavuugks2":
+        Script23();
         break;
   }
 }
@@ -68,6 +134,230 @@ var totalcount=func2+func3+func4+func5+func6+func7+func8+func9+func10+func11+fun
 player.SetVar("TotalCost", totalcount);
 
 //alert("всего: " + totalcount + " руб.\nОбмер помещния = "+func2 +"\nРазработка концепции = " + func3 + "\nОбмерный план = " + func4 + "\nПлан перепланировки = " + func5 +"\nПлан расстановки мебели = " + func6 + "\nПлан демонтажных работ = " + func7 + "\nПлан монтажных работ = " + func8 +"\nПлан потолков = "+ func9 +"\nПлан полов = " + func10 + "\nПлан теплых полов = " + func11 + "\nПлан расположения светильников = " + func12 + "\nПлан расположения розеток и выключателей = " + func13 + "\nПлан расположения сантехнического оборудования = " + func14 + "\nЧертежи встроенной и корпусной мебели под заказ = " + func15+"\nДополнительные чертежи при необходимости = " + func16 +"\nРазвертки помещений с указанием материалов и декоративных элементов = "+ func17 +"\nКоллажи интерьера = "+ func18 + "\nСписок покупок = " + func19 + "\nКомплектация  = " + func20 +"\nСмета = " + func21 + "\n3д визуализация = " + func22+"\nАвторский надзор = " + func23 + "\nФинальная консультация по расстановке декора = " + func24);
+
+}
+
+function Script2()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'1';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script3()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'2';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script4()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'3';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script5()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'4';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script6()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'5';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script7()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'6';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script8()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'7';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script9()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'8';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script10()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'9';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script11()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"))+'0';
+var ss = Number(x);
+player.SetVar("SizeOfRoom", ss);
+
+
+}
+
+function Script12()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("SizeOfRoom"));
+var s = x.slice(0, -1);
+var ss = Number(s);
+player.SetVar("SizeOfRoom", ss);
+
+
+
+}
+
+function Script13()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'1';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script14()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'2';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script15()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'3';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script16()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'4';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script17()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'5';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script18()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'6';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script19()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'7';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script20()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'8';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script21()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'9';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script22()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"))+'0';
+var ss = Number(x);
+player.SetVar("CountOfRooms", ss);
+
+
+}
+
+function Script23()
+{
+  player = GetPlayer();
+var x = String(player.GetVar("CountOfRooms"));
+var s = x.slice(0, -1);
+var ss = Number(s);
+player.SetVar("CountOfRooms", ss);
+
+
 
 }
 
