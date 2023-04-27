@@ -1199,11 +1199,14 @@
       <links>
         <slidelink slideid="_player.6C3Nnz6HgZw.6fNn9EhbhFv" displaytext="Навигация" expand="false" type="slide" />
         <slidelink slideid="_player.6C3Nnz6HgZw.6pd46cAOpoP" displaytext="Untitled Slide" expand="false" type="slide" />
-        <slidelink slideid="_player.6C3Nnz6HgZw.5vPxQOyIERy" displaytext="Тема 1" expand="false" type="slide" />
-        <slidelink slideid="_player.5VhWdH6H88l.6rT9bffxCI1" displaytext="Тема 2" expand="false" type="slide" />
-        <slidelink slideid="_player.5b6aeRQxlXA" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6C3Nnz6HgZw.5vPxQOyIERy" displaytext="Привет" expand="false" type="slide" />
+        <slidelink slideid="_player.6C3Nnz6HgZw.6V6RkTCPpyq" displaytext="тема 1" expand="false" type="slide" />
+        <slidelink slideid="_player.5VhWdH6H88l.6rT9bffxCI1" displaytext="Понятия" expand="false" type="slide" />
+        <slidelink slideid="_player.5VhWdH6H88l.6Q1aA5O1r9z" displaytext="тема 2" expand="false" type="slide" />
+        <slidelink slideid="_player.5b6aeRQxlXA" displaytext="Тема 4" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5b6aeRQxlXA.66F3Yas4H9X" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5b6aeRQxlXA.62vq3MFXuUv" displaytext="тема 4" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.647Ujhd2rKS" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.6lhV7iRYtIb" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.6nvTfdFLh7m" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1211,9 +1214,10 @@
             <slidelink slideid="_player.5b6aeRQxlXA.6jiT6eXDHVX" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5jZkHzZzvs0" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5jZkHzZzvs0" displaytext="Тема 5" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5jZkHzZzvs0.6KaPuhzCR1u" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5jZkHzZzvs0.6eOOorQdqtl" displaytext="тема 5" expand="false" type="slide" />
             <slidelink slideid="_player.5jZkHzZzvs0.6F33KJMJ6cL" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5jZkHzZzvs0.6EMJHrhVF1D" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5jZkHzZzvs0.6DKt8rDZYbp" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1224,7 +1228,7 @@
             <slidelink slideid="_player.5jZkHzZzvs0.5y0tPMdoWN3" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5lQMUURunRW" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5lQMUURunRW" displaytext="Тема 6" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5lQMUURunRW.5gYou3FUGqe" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.5Z1vEKsj4Ca" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1232,11 +1236,13 @@
             <slidelink slideid="_player.5lQMUURunRW.6XGt9koVMc9" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.6ExQ930p1R4" displaytext="Задание" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.5uAbp0nAXeY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5lQMUURunRW.6GF9pegaf3J" displaytext="тема 6" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6bmTF0k4BwE" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6bmTF0k4BwE" displaytext="Тема 7" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6bmTF0k4BwE.6dzdpsAYfVI" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6bmTF0k4BwE.5ykXfJVUZFL" displaytext="тема 7" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.6iuKgg2M4w1" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.5rCet0UpWXu" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.6Mn2lWGCOfl" displaytext="Untitled Slide" expand="false" type="slide" />
