@@ -1278,6 +1278,11 @@
             <slidelink slideid="_player.5ZVQKfz0mre.6XQi4ns5Pdo" displaytext="Draw from theme 4" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5t7gVsAbmbv" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5t7gVsAbmbv.6CmfS4dvzkE" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
