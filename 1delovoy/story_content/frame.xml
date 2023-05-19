@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="98" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="200" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
     <layout name="npnxnanbsnfns00000000001" font="Arial" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="pxabnsnfns00000000001" font="Arial" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
@@ -1201,8 +1201,10 @@
         <slidelink slideid="_player.6C3Nnz6HgZw.6pd46cAOpoP" displaytext="Untitled Slide" expand="false" type="slide" />
         <slidelink slideid="_player.6C3Nnz6HgZw.5vPxQOyIERy" displaytext="Привет" expand="false" type="slide" />
         <slidelink slideid="_player.6C3Nnz6HgZw.6V6RkTCPpyq" displaytext="тема 1" expand="false" type="slide" />
+        <slidelink slideid="_player.6C3Nnz6HgZw.6jzfvhOZPGb" displaytext="Untitled Slide" expand="false" type="slide" />
         <slidelink slideid="_player.6C3Nnz6HgZw.63U2sfFbykX" displaytext="Задание 1" expand="false" type="slide" />
         <slidelink slideid="_player.5VhWdH6H88l.6rT9bffxCI1" displaytext="Понятия" expand="false" type="slide" />
+        <slidelink slideid="_player.5VhWdH6H88l.5eYSvZop5mG" displaytext="Drag and Drop" expand="false" type="slide" />
         <slidelink slideid="_player.5VhWdH6H88l.6dKINvxe76v" displaytext="Задание 2" expand="false" type="slide" />
         <slidelink slideid="_player.5VhWdH6H88l.6Q1aA5O1r9z" displaytext="тема 2" expand="false" type="slide" />
         <slidelink slideid="_player.5b6aeRQxlXA" displaytext="Тема 4" expand="true" type="slide">
@@ -1210,10 +1212,10 @@
             <slidelink slideid="_player.5b6aeRQxlXA.66F3Yas4H9X" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.62vq3MFXuUv" displaytext="тема 4" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.647Ujhd2rKS" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5b6aeRQxlXA.6ohIGpmm9he" displaytext="Drag and Drop" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.6lhV7iRYtIb" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.6nvTfdFLh7m" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.64KDvEV6ASP" displaytext="Задание" expand="false" type="slide" />
-            <slidelink slideid="_player.5b6aeRQxlXA.63nU01gabW5" displaytext="Draw from theme 4" expand="false" type="slide" />
             <slidelink slideid="_player.5b6aeRQxlXA.6jiT6eXDHVX" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1236,6 +1238,7 @@
             <slidelink slideid="_player.5lQMUURunRW.5gYou3FUGqe" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.5Z1vEKsj4Ca" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.5kwSS2m8D8F" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5lQMUURunRW.5wShqGgQzSO" displaytext="Drag and Drop" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.6XGt9koVMc9" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.6ExQ930p1R4" displaytext="Задание" expand="false" type="slide" />
             <slidelink slideid="_player.5lQMUURunRW.5gyYN2ijiSa" displaytext="Draw from theme 6" expand="false" type="slide" />
@@ -1253,6 +1256,7 @@
             <slidelink slideid="_player.6bmTF0k4BwE.5pwWfvz40ku" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.6WOgqjQ72R5" displaytext="Задание" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.69qIPYtUU3m" displaytext="Задание" expand="false" type="slide" />
+            <slidelink slideid="_player.6bmTF0k4BwE.5sG70S11odK" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.60m0vcEacBJ" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.5mJmxjMokiy" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6bmTF0k4BwE.5cDUac7fX3Z" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1267,6 +1271,11 @@
           <links>
             <slidelink slideid="_player.5cyEiv28THY.6I1ooUinFYu" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5cyEiv28THY.66PQUjb2Zuv" displaytext="Задание" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ZVQKfz0mre" displaytext="4 тема - мои варианты заданий" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5ZVQKfz0mre.6XQi4ns5Pdo" displaytext="Draw from theme 4" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
