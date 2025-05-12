@@ -464,6 +464,17 @@
   
 
   <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix/>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var video = document.querySelector('video');
+    if (video) {
+      video.muted = true; // браузеры разрешают автозапуск без звука
+      video.play().catch(function(e) {
+        console.warn("Автозапуск заблокирован", e);
+      });
+    }
+  });
+</script>
 </body>
 <script src="html5/lib/scripts/bootstrapper.min.js"></script>
 </html>
